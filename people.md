@@ -34,7 +34,7 @@ Teaching Staff
 
 ![PHHsu](/images/portrait-Chung.png)
 
-<a href="">Alan Chung</a>
+<a href="">Yi-Lun (Alan) Chung</a>
 <br>
 鐘沂倫
 </td>
@@ -43,16 +43,16 @@ Teaching Staff
 
 ![SCHsu](/images/portrait-strawman.png)
 
-<a href="">David Ho</a>
+<a href="">Ta-Wei (David) Ho</a>
 <br>
 何大維
 </td>
 
 <td style="text-align:center">
 
-![SCHsu](/images/portrait-strawman.png)
+![SCHsu](/images/portrait-Chen.png)
 
-<a href="">Richard Chen</a>
+<a href="">Chung-Ming (Richard) Chen</a>
 <br>
 陳重名
 </td>
