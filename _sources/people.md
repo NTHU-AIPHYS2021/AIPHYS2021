@@ -36,7 +36,7 @@ Teaching Staff
 
 <a href="">Alan Chung</a>
 <br>
-Alan Chung
+鐘沂倫
 </td>
             
 <td style="text-align:center">
@@ -45,7 +45,7 @@ Alan Chung
 
 <a href="">David Ho</a>
 <br>
-David Ho
+何大維
 </td>
 
 <td style="text-align:center">
