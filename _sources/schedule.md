@@ -4,7 +4,8 @@ Schedule
 
 |Week|Topic|Video|Quiz|Lab|
 |--|--|--|--|--|
-|01|[Introduction](weeks/01.md) | [video]() | [quiz](https://forms.gle/MoYQXECTnNAzvZtJ9) | [lab](https://www.kaggle.com/t/8f38a8f6de334ce68968dfb58f3a67a2) |
+#|01|[Introduction](weeks/01.md) | [video]() | [quiz](https://forms.gle/MoYQXECTnNAzvZtJ9) | [lab](https://www.kaggle.com/t/8f38a8f6de334ce68968dfb58f3a67a2) |
+|01|[Introduction](weeks/01.md) | [video]() | [quiz](https://forms.gle/MoYQXECTnNAzvZtJ9) | [lab]() |
 |02|[Data Formats and Exploration](weeks/02.md)|  [video]() | [quiz]()  | [lab]() |
 |03|[AI overview: supervised vs unsupervised learning](weeks/03.md) |  [video]() | [quiz]()  | [lab]() |
 |04|[Classification](weeks/04.md) |  [video]() | [quiz]()  | [lab]() |
