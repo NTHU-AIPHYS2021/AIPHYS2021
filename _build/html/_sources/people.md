@@ -36,7 +36,7 @@ Teaching Staff
 
 <a href="">Yi-Lun (Alan) Chung</a>
 <br>
-鐘沂倫
+鍾沂倫
 </td>
             
 <td style="text-align:center">
