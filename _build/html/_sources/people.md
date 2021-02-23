@@ -41,9 +41,9 @@ Teaching Staff
             
 <td style="text-align:center">
 
-![SCHsu](/images/portrait-strawman.png)
+![SCHsu](/images/portrait-Ho.png)
 
-<a href="">Ta-Wei (David) Ho</a>
+<a href="https://profile.davidho.tw">Ta-Wei (David) Ho</a>
 <br>
 何大維
 </td>
