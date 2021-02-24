@@ -52,7 +52,7 @@ Teaching Staff
 
 ![SCHsu](/images/portrait-Chen.png)
 
-<a href="">Chung-Ming (Richard) Chen</a>
+<a href="https://www.linkedin.com/in/重名-陳-3818aa207">Chung-Ming (Richard) Chen</a>
 <br>
 陳重名
 </td>
