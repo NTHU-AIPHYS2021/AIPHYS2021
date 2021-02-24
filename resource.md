@@ -34,5 +34,9 @@ For consistency, we will use the TensorFlow (Links to an external site.) platfor
 
 Follow the instructions in the Kaggle setup to work on each of the assignment. You can also use Google CoLab or Local Platform to work on the assignment and upload jupyter notebook to Kaggle for submission.
 
-
-
+## Useful manual
+1. [Numpy](https://numpy.org/doc/stable) NumPy is the fundamental package for scientific computing in Python.
+2. [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+3. [Uproot](https://uproot.readthedocs.io/en/latest/) Uproot is a library for reading (and soon, writing) ROOT files in pure Python and NumPy.
+4. [h5py](https://docs.h5py.org/en/stable/) The h5py package is a Pythonic interface to the HDF5 binary data format.
+5. [Matplotlib](https://matplotlib.org/stable/contents.html) Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
